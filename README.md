@@ -5,16 +5,16 @@ Creating a Web App using Python Flask and MySQL
 
 ## Dependencies
 
-Click
-Flask
-Flask-SQLAlchemy
-Jinja2
-MarkupSafe
-SQLAlchemy
-Werkzeug
-itsdangerous
-pip
-setuptools
+- Click
+- Flask
+- Flask-SQLAlchemy
+- Jinja2
+- MarkupSafe
+- SQLAlchemy
+- Werkzeug
+- itsdangerous
+- pip
+- setuptools
 
 ## Installation
 
