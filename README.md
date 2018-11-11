@@ -1,5 +1,5 @@
 # Flask-todo-app
-Creating a Web App using Python Flask and MySQL
+Creating a Web App using Python Flask
 
 ![flask-todo](https://github.com/yampeled1/Flask-todo-app/blob/master/todo-app.png)
 
